@@ -6,6 +6,14 @@ This app has a React front-end (in the client directory) and a Node Express back
 
 ## How to Run the App
 
+### API
+
+In the api directory, run:
+```
+$ npm install
+$ npm run dev
+```
+
 ### client
 
 In the client directory, run:
@@ -14,14 +22,6 @@ $ npm install
 $ npm start
 ```
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### API
-
-In the api directory, run:
-```
-$ npm install
-$ npm run dev
-```
 
 ---
 
